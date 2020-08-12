@@ -1,0 +1,11 @@
+name: spatial_data_science
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - matplotlib
+  - folium
+  - osmnx
+  - jupyterlab
+
