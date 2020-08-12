@@ -8,5 +8,6 @@ dependencies:
   - descartes
   - folium
   - osmnx
+  - scikit-learn
   - jupyterlab
 
