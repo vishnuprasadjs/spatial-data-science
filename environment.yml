@@ -5,6 +5,7 @@ channels:
 dependencies:
   - geopandas
   - matplotlib
+  - descartes
   - folium
   - osmnx
   - jupyterlab
